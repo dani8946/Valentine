@@ -1,0 +1,26 @@
+*{padding: 0; margin : 0}
+.container{
+    height:220vh;
+    width:220vh;
+    color:#444;
+    background:#ffe3fd;
+    text-align: center
+}
+.love{
+    padding-top: 15%;
+}
+.love span{color:red}
+#Valentine{
+    padding-top: 3%;
+    padding-left:1%;
+    width: 200px;
+    height: auto;
+
+}
+.pop{
+    padding-top: 2%;
+}
+.pop .yes-btn,
+.pop .no-btn {
+    font-size: 120%; /* Increase the size by 3% */
+}
